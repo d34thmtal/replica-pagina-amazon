@@ -1,0 +1,139 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EDEBEC;
+}
+
+div {
+    display: block;
+}
+.bg-dark{
+color: #eaeded;
+background-color:#222f3e;
+}
+
+.header-top img{
+    width: 100px;
+    padding: 0.4em 2em;
+}
+
+.header-bottom{
+    background-color: #364659;
+}
+
+
+.header-bottom span{
+    color: white;
+    padding: 0.4em;
+}
+/*inserito da tutor
+.messaggio-arancione{
+    background-color: #F36802;
+    margin: 2em 0;
+    padding: 0.5em;
+    text-align: center;
+    color: white;
+}
+*/
+.bg-yellow {
+    background-color:#f56600;
+    color: #eaeded;
+   text-align: center;
+   padding: 0.5em;
+   font-size: 80%;
+   margin-left: 2%;
+   margin-right: 2%;
+   margin-top: 10px;
+
+}
+#bg-img{
+    background-image: url(assets/bg-image.png);
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.slogan{
+    text-align: center;
+    color: white;
+    padding: 1em;
+    
+}
+
+
+
+.sezione-img {
+    background-color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+.cont-img img{
+    width: 20%;
+    height: 300px;
+    margin-left: 2%;
+    margin-top: 10px;
+    border-radius: 18px;
+    object-fit: cover;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.025);
+    align-content: space-between;
+    position: relative;
+   
+
+}
+
+.tecnologia{
+    position: relative;
+    padding-left: 35px;
+    padding-right: 35px;
+
+}
+
+.tecnologia img {
+    margin-top: 30px;
+    width: 100%
+
+}
+
+.play {
+    font-weight: 700;
+    text-align: center;
+}
+#cta {
+    color: #007185;
+}
+
+.pre-footer{
+    height: 30px;
+    width: 100%;
+    background-color: #364759;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 20px;
+
+}
+
+.Back-to-the-top {
+
+    color: white;
+
+}
+
+footer{
+    height: 10%;
+    width: 100%;
+    background-color:#222F3E;
+}
+
+footer .logo {
+    width: 30%;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 36%;
+    
+}
+
